@@ -17,6 +17,6 @@ A simple extension for [Gravity Forms](http://www.gravityforms.com/) that allows
 
 Comma separate the different gravity form ids in the ids parameter. The title, description and ajax parameters are by default false, and are optional. 
 
-## Installation ==
+## Installation
 
 Upload the Gravity Forms A/B Testing plugin to your blog and activate it. You can then begin to use the shortcode. 
